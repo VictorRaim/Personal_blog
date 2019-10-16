@@ -18,6 +18,8 @@ pygmentscodefencesguesssyntax = true
     keywords = "blog,cloud,devops,personal"
     avatarurl = "img/avatar.jpg"
 
+    inverted = true
+
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
@@ -47,7 +49,7 @@ pygmentscodefencesguesssyntax = true
     name = "Meetup"
     icon = "fab fa-meetup fa-2x"
     weight = 4
-    url = "https://twitter.com/VictorRaimbourg/"
+    url = "https://www.meetup.com/fr-FR/members/212984078/"
 
 # Menu links
 [[menu.main]]
