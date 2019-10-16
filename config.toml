@@ -14,18 +14,17 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Victor Raimbourg"
-    info = "Cloud Consultant"
+    info = "Cloud Engineer"
     keywords = "blog,cloud,devops,personal"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "img/avatar.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    # hidecredits = false
+    hidecredits = true
     hidecopyright = true
 
     rtl = false
-
     math = false
 
 # Social links
@@ -44,14 +43,19 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-twitter fa-2x"
     weight = 3
     url = "https://twitter.com/VictorRaimbourg/"
-
+[[params.social]]
+    name = "Meetup"
+    icon = "fab fa-meetup fa-2x"
+    weight = 4
+    url = "https://twitter.com/VictorRaimbourg/"
 
 # Menu links
 [[menu.main]]
     name = "About"
-    weight = 2
-    url = "/about/"
-[[menu.main]]
-    name = "Blog"
     weight = 1
-    url  = "/posts/"
+    url = "/about/"
+# For future use
+#[[menu.main]]
+#    name = "Blog"
+#    weight = 1
+#    url  = "/posts/"
