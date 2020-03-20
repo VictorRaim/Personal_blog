@@ -46,9 +46,14 @@ pygmentscodefencesguesssyntax = true
     weight = 3
     url = "https://twitter.com/VictorRaimbourg/"
 [[params.social]]
+    name = "Medium"
+    icon = "fab fa-medium fa-2x"
+    weight = 4
+    url = "https://medium.com/@v.raimbourg"
+[[params.social]]
     name = "Meetup"
     icon = "fab fa-meetup fa-2x"
-    weight = 4
+    weight = 5
     url = "https://www.meetup.com/fr-FR/members/212984078/"
 
 # Menu links
