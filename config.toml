@@ -1,4 +1,4 @@
-baseurl = "https://victoraimbourg.name"
+baseurl = "/"
 title = "Victor Raimbourg"
 theme = "hugo-coder"
 languagecode = "en"
