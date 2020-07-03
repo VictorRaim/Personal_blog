@@ -3,7 +3,7 @@ title = "About"
 slug = "about"
 +++
 
-French cloud engineer.  AWS Certified solution architect with high interests in building scalable, highly available and cloud native applications.
+French cloud engineer. AWS Certified solution architect & Azure Certified administrator with high interests in building scalable, highly available and cloud native applications.
 
 
 For business inquiries send an email to v.raimbourg+contact[at]gmail[dot]com
