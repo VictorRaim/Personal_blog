@@ -14,8 +14,8 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Victor Raimbourg"
-    info = "Cloud Engineer"
-    keywords = "blog,cloud,devops,personal"
+    info = "Site Reliability Engineer"
+    keywords = "blog,cloud,devops,sre,personal"
     avatarurl = "img/avatar.jpg"
 
     inverted = true
